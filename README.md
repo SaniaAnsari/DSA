@@ -11,15 +11,16 @@ It is created for learning, practice, and university preparation.
 - To improve problem-solving skills
 - To prepare for university exams and interviews
 
+---
+
 ## 📌 Weekly Lab Task
-
-### 🔹 Data Structures
-- Arrays
-- Linked List 
-
+## Week:1
 ### 🔹 Algorithms
 - Searching (Linear, Binary)
 - Sorting (Bubble, Selection, Insertion)
+## Week:2
+### 🔹 Data Structures
+- Linked List (Singly)
 
 ---
 
