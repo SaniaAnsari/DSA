@@ -13,12 +13,10 @@ It is created for learning, practice, and university preparation.
 
 ---
 
-## 📌 Weekly Lab Task
-## Week:1
+##  Lab Task
 ### 🔹 Algorithms
 - Searching (Linear, Binary)
 - Sorting (Bubble, Selection, Insertion)
-## Week:2
 ### 🔹 Data Structures
 - Linked List (Singly)
 
