@@ -3,9 +3,15 @@
 This repository contains my practice and implementation of **Data Structures and Algorithms** using **C++**.  
 It is created for learning, practice, and university preparation.
 
+
 ---
 
-## 📌 Topics Covered
+## 🎯 Purpose
+- To understand DSA concepts clearly
+- To improve problem-solving skills
+- To prepare for university exams and interviews
+
+## 📌 Weekly Lab Task
 
 ### 🔹 Data Structures
 - Arrays
@@ -21,10 +27,7 @@ It is created for learning, practice, and university preparation.
 - C++
 
 
----
 
-## 🎯 Purpose
-- To understand DSA concepts clearly
-- To improve problem-solving skills
-- To prepare for university exams and interviews
+
+
 
