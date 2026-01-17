@@ -22,7 +22,7 @@ It is created for learning, practice, and university preparation.
 
 ---
 
-## 🛠 Languages Used
+## 🛠 Language Used
 - C++
 
 
