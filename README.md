@@ -1,4 +1,4 @@
-# Data Structures and Algorithms (DSA)
+# BSCS 3rd Semester Data Structures and Algorithms (DSA)
 
 This repository contains my practice and implementation of **Data Structures and Algorithms** using **C++**.  
 It is created for learning, practice, and university preparation.
