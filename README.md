@@ -18,7 +18,7 @@ It is created for learning, practice, and university preparation.
 - Searching (Linear, Binary)
 - Sorting (Bubble, Selection, Insertion)
 ### 🔹 Data Structures
-- Linked List (Singly, Circular)
+- Linked List (Singly, Circular, Doubly)
 
 ---
 
