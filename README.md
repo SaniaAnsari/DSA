@@ -16,11 +16,16 @@ It is created for learning, practice, and university preparation.
 ##  Lab Task
 ### 🔹 Algorithms
 - Searching (Linear, Binary)
-- Sorting (Bubble, Selection, Insertion)
+- Sorting (Bubble, Selection, Insertion, Quick, Merge)
 ### 🔹 Data Structures
 - Linked List (Singly, Circular, Doubly, Multi)
 - Stack
 - Queue
+- Hashing(Open & Closed)
+- Trees
+     Binary Search Trees (BST)
+     AVL
+  
 
 ---
 
