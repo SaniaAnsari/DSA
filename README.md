@@ -23,8 +23,8 @@ It is created for learning, practice, and university preparation.
 - Queue
 - Hashing(Open & Closed)
 - Trees
-     *Binary Search Trees (BST)
-     *AVL
+     -Binary Search Trees (BST)
+     -AVL
   
 
 ---
