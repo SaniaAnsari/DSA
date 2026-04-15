@@ -25,6 +25,7 @@ It is created for learning, practice, and university preparation.
 - Trees
      - Binary Search Trees (BST)
      - AVL
+     - Heap
   
 
 ---
